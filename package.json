@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/javascriptdezero/coding-dojo#readme",
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^29.5.0"
   }
 }
